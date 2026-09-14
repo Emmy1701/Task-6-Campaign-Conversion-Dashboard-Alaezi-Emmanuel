@@ -1,2 +1,2 @@
-# Task-6-Hydropower-Analytics-Dashboard-Alaezi-Emmanuel
-Power BI interactive dashboard analyzing data center energy efficiency (PUE), water consumption trends, water risk tiers, and cooling technologies.
+# Task-6-Campaign-Conversion-Dashboard-Alaezi-Emmanuel
+Power BI interactive dashboard analyzing marketing campaign conversion rates, customer demographics, contact channel performance, and economic indicators.
