@@ -1,6 +1,6 @@
 # 📈 Marketing Campaign Conversion Dashboard
 
-![Campaign Conversion Dashboard.pbix](Campaign Conversion Dashboard.png)
+![Campaign Conversion Dashboard.pbix] (Campaign Conversion Dashboard.png)
 
 ## 1. Executive Summary
 This Power BI dashboard evaluates direct marketing campaign performance, outreach effectiveness, and customer conversion dynamics across **41,000 total contacts**. Developed using **Power Query** for data transformation and **DAX** for key metrics, it highlights demographic variations (education, marital status, job roles) and channel performance to optimize marketing ROI.
